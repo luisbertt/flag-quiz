@@ -57,6 +57,9 @@ const IndexPage = () => {
 	const onFlagClicked = (country: Country) => {
 		if (!country.guessed) {
 			setCurrentCountry(country)
+			setCurrentIndex(
+				countriesLeft.findIndex(c => c.name === country.name)
+			)
 			inputRef.current.focus()
 		}
 	}
