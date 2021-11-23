@@ -1,0 +1,1578 @@
+[
+	{
+		"name": "Afghanistan",
+		"flag": "🇦🇫",
+		"flags": {
+			"png": "https://flagcdn.com/w320/af.png",
+			"svg": "https://flagcdn.com/af.svg"
+		}
+	},
+	{
+		"name": "Sudan",
+		"flag": "🇸🇩",
+		"flags": {
+			"png": "https://flagcdn.com/w320/sd.png",
+			"svg": "https://flagcdn.com/sd.svg"
+		}
+	},
+	{
+		"name": "Burundi",
+		"flag": "🇧🇮",
+		"flags": {
+			"png": "https://flagcdn.com/w320/bi.png",
+			"svg": "https://flagcdn.com/bi.svg"
+		}
+	},
+	{
+		"name": "Mexico",
+		"flag": "🇲🇽",
+		"flags": {
+			"png": "https://flagcdn.com/w320/mx.png",
+			"svg": "https://flagcdn.com/mx.svg"
+		}
+	},
+	{
+		"name": "Cuba",
+		"flag": "🇨🇺",
+		"flags": {
+			"png": "https://flagcdn.com/w320/cu.png",
+			"svg": "https://flagcdn.com/cu.svg"
+		}
+	},
+	{
+		"name": "Serbia",
+		"flag": "🇷🇸",
+		"flags": {
+			"png": "https://flagcdn.com/w320/rs.png",
+			"svg": "https://flagcdn.com/rs.svg"
+		}
+	},
+	{
+		"name": "Monaco",
+		"flag": "🇲🇨",
+		"flags": {
+			"png": "https://flagcdn.com/w320/mc.png",
+			"svg": "https://flagcdn.com/mc.svg"
+		}
+	},
+	{
+		"name": "Bhutan",
+		"flag": "🇧🇹",
+		"flags": {
+			"png": "https://flagcdn.com/w320/bt.png",
+			"svg": "https://flagcdn.com/bt.svg"
+		}
+	},
+	{
+		"name": "Guyana",
+		"flag": "🇬🇾",
+		"flags": {
+			"png": "https://flagcdn.com/w320/gy.png",
+			"svg": "https://flagcdn.com/gy.svg"
+		}
+	},
+	{
+		"name": "Bosnia and Herzegovina",
+		"flag": "🇧🇦",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ba.png",
+			"svg": "https://flagcdn.com/ba.svg"
+		}
+	},
+	{
+		"name": "Brunei",
+		"flag": "🇧🇳",
+		"flags": {
+			"png": "https://flagcdn.com/w320/bn.png",
+			"svg": "https://flagcdn.com/bn.svg"
+		}
+	},
+	{
+		"name": "Pakistan",
+		"flag": "🇵🇰",
+		"flags": {
+			"png": "https://flagcdn.com/w320/pk.png",
+			"svg": "https://flagcdn.com/pk.svg"
+		}
+	},
+	{
+		"name": "Kenya",
+		"flag": "🇰🇪",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ke.png",
+			"svg": "https://flagcdn.com/ke.svg"
+		}
+	},
+	{
+		"name": "Somalia",
+		"flag": "🇸🇴",
+		"flags": {
+			"png": "https://flagcdn.com/w320/so.png",
+			"svg": "https://flagcdn.com/so.svg"
+		}
+	},
+	{
+		"name": "Sierra Leone",
+		"flag": "🇸🇱",
+		"flags": {
+			"png": "https://flagcdn.com/w320/sl.png",
+			"svg": "https://flagcdn.com/sl.svg"
+		}
+	},
+	{
+		"name": "Azerbaijan",
+		"flag": "🇦🇿",
+		"flags": {
+			"png": "https://flagcdn.com/w320/az.png",
+			"svg": "https://flagcdn.com/az.svg"
+		}
+	},
+	{
+		"name": "Peru",
+		"flag": "🇵🇪",
+		"flags": {
+			"png": "https://flagcdn.com/w320/pe.png",
+			"svg": "https://flagcdn.com/pe.svg"
+		}
+	},
+	{
+		"name": "Angola",
+		"flag": "🇦🇴",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ao.png",
+			"svg": "https://flagcdn.com/ao.svg"
+		}
+	},
+	{
+		"name": "Republic of the Congo",
+		"flag": "🇨🇬",
+		"flags": {
+			"png": "https://flagcdn.com/w320/cg.png",
+			"svg": "https://flagcdn.com/cg.svg"
+		}
+	},
+	{
+		"name": "South Sudan",
+		"flag": "🇸🇸",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ss.png",
+			"svg": "https://flagcdn.com/ss.svg"
+		}
+	},
+	{
+		"name": "Turkey",
+		"flag": "🇹🇷",
+		"flags": {
+			"png": "https://flagcdn.com/w320/tr.png",
+			"svg": "https://flagcdn.com/tr.svg"
+		}
+	},
+	{
+		"name": "Saint Kitts and Nevis",
+		"flag": "🇰🇳",
+		"flags": {
+			"png": "https://flagcdn.com/w320/kn.png",
+			"svg": "https://flagcdn.com/kn.svg"
+		}
+	},
+	{
+		"name": "Taiwan",
+		"flag": "🇹🇼",
+		"flags": {
+			"png": "https://flagcdn.com/w320/tw.png",
+			"svg": "https://flagcdn.com/tw.svg"
+		}
+	},
+	{
+		"name": "Sweden",
+		"flag": "🇸🇪",
+		"flags": {
+			"png": "https://flagcdn.com/w320/se.png",
+			"svg": "https://flagcdn.com/se.svg"
+		}
+	},
+	{
+		"name": "Liberia",
+		"flag": "🇱🇷",
+		"flags": {
+			"png": "https://flagcdn.com/w320/lr.png",
+			"svg": "https://flagcdn.com/lr.svg"
+		}
+	},
+	{
+		"name": "Venezuela",
+		"flag": "🇻🇪",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ve.png",
+			"svg": "https://flagcdn.com/ve.svg"
+		}
+	},
+	{
+		"name": "Albania",
+		"flag": "🇦🇱",
+		"flags": {
+			"png": "https://flagcdn.com/w320/al.png",
+			"svg": "https://flagcdn.com/al.svg"
+		}
+	},
+	{
+		"name": "Luxembourg",
+		"flag": "🇱🇺",
+		"flags": {
+			"png": "https://flagcdn.com/w320/lu.png",
+			"svg": "https://flagcdn.com/lu.svg"
+		}
+	},
+	{
+		"name": "Eritrea",
+		"flag": "🇪🇷",
+		"flags": {
+			"png": "https://flagcdn.com/w320/er.png",
+			"svg": "https://flagcdn.com/er.svg"
+		}
+	},
+	{
+		"name": "Colombia",
+		"flag": "🇨🇴",
+		"flags": {
+			"png": "https://flagcdn.com/w320/co.png",
+			"svg": "https://flagcdn.com/co.svg"
+		}
+	},
+	{
+		"name": "Mongolia",
+		"flag": "🇲🇳",
+		"flags": {
+			"png": "https://flagcdn.com/w320/mn.png",
+			"svg": "https://flagcdn.com/mn.svg"
+		}
+	},
+	{
+		"name": "Yemen",
+		"flag": "🇾🇪",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ye.png",
+			"svg": "https://flagcdn.com/ye.svg"
+		}
+	},
+	{
+		"name": "Lebanon",
+		"flag": "🇱🇧",
+		"flags": {
+			"png": "https://flagcdn.com/w320/lb.png",
+			"svg": "https://flagcdn.com/lb.svg"
+		}
+	},
+	{
+		"name": "Antigua and Barbuda",
+		"flag": "🇦🇬",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ag.png",
+			"svg": "https://flagcdn.com/ag.svg"
+		}
+	},
+	{
+		"name": "Vietnam",
+		"flag": "🇻🇳",
+		"flags": {
+			"png": "https://flagcdn.com/w320/vn.png",
+			"svg": "https://flagcdn.com/vn.svg"
+		}
+	},
+	{
+		"name": "Palau",
+		"flag": "🇵🇼",
+		"flags": {
+			"png": "https://flagcdn.com/w320/pw.png",
+			"svg": "https://flagcdn.com/pw.svg"
+		}
+	},
+	{
+		"name": "Trinidad and Tobago",
+		"flag": "🇹🇹",
+		"flags": {
+			"png": "https://flagcdn.com/w320/tt.png",
+			"svg": "https://flagcdn.com/tt.svg"
+		}
+	},
+	{
+		"name": "Israel",
+		"flag": "🇮🇱",
+		"flags": {
+			"png": "https://flagcdn.com/w320/il.png",
+			"svg": "https://flagcdn.com/il.svg"
+		}
+	},
+	{
+		"name": "Bulgaria",
+		"flag": "🇧🇬",
+		"flags": {
+			"png": "https://flagcdn.com/w320/bg.png",
+			"svg": "https://flagcdn.com/bg.svg"
+		}
+	},
+	{
+		"name": "Portugal",
+		"flag": "🇵🇹",
+		"flags": {
+			"png": "https://flagcdn.com/w320/pt.png",
+			"svg": "https://flagcdn.com/pt.svg"
+		}
+	},
+	{
+		"name": "San Marino",
+		"flag": "🇸🇲",
+		"flags": {
+			"png": "https://flagcdn.com/w320/sm.png",
+			"svg": "https://flagcdn.com/sm.svg"
+		}
+	},
+	{
+		"name": "Singapore",
+		"flag": "🇸🇬",
+		"flags": {
+			"png": "https://flagcdn.com/w320/sg.png",
+			"svg": "https://flagcdn.com/sg.svg"
+		}
+	},
+	{
+		"name": "Saudi Arabia",
+		"flag": "🇸🇦",
+		"flags": {
+			"png": "https://flagcdn.com/w320/sa.png",
+			"svg": "https://flagcdn.com/sa.svg"
+		}
+	},
+	{
+		"name": "Ghana",
+		"flag": "🇬🇭",
+		"flags": {
+			"png": "https://flagcdn.com/w320/gh.png",
+			"svg": "https://flagcdn.com/gh.svg"
+		}
+	},
+	{
+		"name": "Moldova",
+		"flag": "🇲🇩",
+		"flags": {
+			"png": "https://flagcdn.com/w320/md.png",
+			"svg": "https://flagcdn.com/md.svg"
+		}
+	},
+	{
+		"name": "Chad",
+		"flag": "🇹🇩",
+		"flags": {
+			"png": "https://flagcdn.com/w320/td.png",
+			"svg": "https://flagcdn.com/td.svg"
+		}
+	},
+	{
+		"name": "United Kingdom",
+		"flag": "🇬🇧",
+		"flags": {
+			"png": "https://flagcdn.com/w320/gb.png",
+			"svg": "https://flagcdn.com/gb.svg"
+		}
+	},
+	{
+		"name": "Papua New Guinea",
+		"flag": "🇵🇬",
+		"flags": {
+			"png": "https://flagcdn.com/w320/pg.png",
+			"svg": "https://flagcdn.com/pg.svg"
+		}
+	},
+	{
+		"name": "Belize",
+		"flag": "🇧🇿",
+		"flags": {
+			"png": "https://flagcdn.com/w320/bz.png",
+			"svg": "https://flagcdn.com/bz.svg"
+		}
+	},
+	{
+		"name": "Comoros",
+		"flag": "🇰🇲",
+		"flags": {
+			"png": "https://flagcdn.com/w320/km.png",
+			"svg": "https://flagcdn.com/km.svg"
+		}
+	},
+	{
+		"name": "Burkina Faso",
+		"flag": "🇧🇫",
+		"flags": {
+			"png": "https://flagcdn.com/w320/bf.png",
+			"svg": "https://flagcdn.com/bf.svg"
+		}
+	},
+	{
+		"name": "Guinea",
+		"flag": "🇬🇳",
+		"flags": {
+			"png": "https://flagcdn.com/w320/gn.png",
+			"svg": "https://flagcdn.com/gn.svg"
+		}
+	},
+	{
+		"name": "India",
+		"flag": "🇮🇳",
+		"flags": {
+			"png": "https://flagcdn.com/w320/in.png",
+			"svg": "https://flagcdn.com/in.svg"
+		}
+	},
+	{
+		"name": "Togo",
+		"flag": "🇹🇬",
+		"flags": {
+			"png": "https://flagcdn.com/w320/tg.png",
+			"svg": "https://flagcdn.com/tg.svg"
+		}
+	},
+	{
+		"name": "Tunisia",
+		"flag": "🇹🇳",
+		"flags": {
+			"png": "https://flagcdn.com/w320/tn.png",
+			"svg": "https://flagcdn.com/tn.svg"
+		}
+	},
+	{
+		"name": "Indonesia",
+		"flag": "🇮🇩",
+		"flags": {
+			"png": "https://flagcdn.com/w320/id.png",
+			"svg": "https://flagcdn.com/id.svg"
+		}
+	},
+	{
+		"name": "Micronesia",
+		"flag": "🇫🇲",
+		"flags": {
+			"png": "https://flagcdn.com/w320/fm.png",
+			"svg": "https://flagcdn.com/fm.svg"
+		}
+	},
+	{
+		"name": "Austria",
+		"flag": "🇦🇹",
+		"flags": {
+			"png": "https://flagcdn.com/w320/at.png",
+			"svg": "https://flagcdn.com/at.svg"
+		}
+	},
+	{
+		"name": "Tajikistan",
+		"flag": "🇹🇯",
+		"flags": {
+			"png": "https://flagcdn.com/w320/tj.png",
+			"svg": "https://flagcdn.com/tj.svg"
+		}
+	},
+	{
+		"name": "DR Congo",
+		"flag": "🇨🇩",
+		"flags": {
+			"png": "https://flagcdn.com/w320/cd.png",
+			"svg": "https://flagcdn.com/cd.svg"
+		}
+	},
+	{
+		"name": "Romania",
+		"flag": "🇷🇴",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ro.png",
+			"svg": "https://flagcdn.com/ro.svg"
+		}
+	},
+	{
+		"name": "Qatar",
+		"flag": "🇶🇦",
+		"flags": {
+			"png": "https://flagcdn.com/w320/qa.png",
+			"svg": "https://flagcdn.com/qa.svg"
+		}
+	},
+	{
+		"name": "Lithuania",
+		"flag": "🇱🇹",
+		"flags": {
+			"png": "https://flagcdn.com/w320/lt.png",
+			"svg": "https://flagcdn.com/lt.svg"
+		}
+	},
+	{
+		"name": "China",
+		"flag": "🇨🇳",
+		"flags": {
+			"png": "https://flagcdn.com/w320/cn.png",
+			"svg": "https://flagcdn.com/cn.svg"
+		}
+	},
+	{
+		"name": "New Zealand",
+		"flag": "🇳🇿",
+		"flags": {
+			"png": "https://flagcdn.com/w320/nz.png",
+			"svg": "https://flagcdn.com/nz.svg"
+		}
+	},
+	{
+		"name": "Mauritania",
+		"flag": "🇲🇷",
+		"flags": {
+			"png": "https://flagcdn.com/w320/mr.png",
+			"svg": "https://flagcdn.com/mr.svg"
+		}
+	},
+	{
+		"name": "Uzbekistan",
+		"flag": "🇺🇿",
+		"flags": {
+			"png": "https://flagcdn.com/w320/uz.png",
+			"svg": "https://flagcdn.com/uz.svg"
+		}
+	},
+	{
+		"name": "Finland",
+		"flag": "🇫🇮",
+		"flags": {
+			"png": "https://flagcdn.com/w320/fi.png",
+			"svg": "https://flagcdn.com/fi.svg"
+		}
+	},
+	{
+		"name": "Cameroon",
+		"flag": "🇨🇲",
+		"flags": {
+			"png": "https://flagcdn.com/w320/cm.png",
+			"svg": "https://flagcdn.com/cm.svg"
+		}
+	},
+	{
+		"name": "Dominica",
+		"flag": "🇩🇲",
+		"flags": {
+			"png": "https://flagcdn.com/w320/dm.png",
+			"svg": "https://flagcdn.com/dm.svg"
+		}
+	},
+	{
+		"name": "Iceland",
+		"flag": "🇮🇸",
+		"flags": {
+			"png": "https://flagcdn.com/w320/is.png",
+			"svg": "https://flagcdn.com/is.svg"
+		}
+	},
+	{
+		"name": "Oman",
+		"flag": "🇴🇲",
+		"flags": {
+			"png": "https://flagcdn.com/w320/om.png",
+			"svg": "https://flagcdn.com/om.svg"
+		}
+	},
+	{
+		"name": "North Macedonia",
+		"flag": "🇲🇰",
+		"flags": {
+			"png": "https://flagcdn.com/w320/mk.png",
+			"svg": "https://flagcdn.com/mk.svg"
+		}
+	},
+	{
+		"name": "Liechtenstein",
+		"flag": "🇱🇮",
+		"flags": {
+			"png": "https://flagcdn.com/w320/li.png",
+			"svg": "https://flagcdn.com/li.svg"
+		}
+	},
+	{
+		"name": "Spain",
+		"flag": "🇪🇸",
+		"flags": {
+			"png": "https://flagcdn.com/w320/es.png",
+			"svg": "https://flagcdn.com/es.svg"
+		}
+	},
+	{
+		"name": "Greece",
+		"flag": "🇬🇷",
+		"flags": {
+			"png": "https://flagcdn.com/w320/gr.png",
+			"svg": "https://flagcdn.com/gr.svg"
+		}
+	},
+	{
+		"name": "Paraguay",
+		"flag": "🇵🇾",
+		"flags": {
+			"png": "https://flagcdn.com/w320/py.png",
+			"svg": "https://flagcdn.com/py.svg"
+		}
+	},
+	{
+		"name": "Bahrain",
+		"flag": "🇧🇭",
+		"flags": {
+			"png": "https://flagcdn.com/w320/bh.png",
+			"svg": "https://flagcdn.com/bh.svg"
+		}
+	},
+	{
+		"name": "Senegal",
+		"flag": "🇸🇳",
+		"flags": {
+			"png": "https://flagcdn.com/w320/sn.png",
+			"svg": "https://flagcdn.com/sn.svg"
+		}
+	},
+	{
+		"name": "Latvia",
+		"flag": "🇱🇻",
+		"flags": {
+			"png": "https://flagcdn.com/w320/lv.png",
+			"svg": "https://flagcdn.com/lv.svg"
+		}
+	},
+	{
+		"name": "Japan",
+		"flag": "🇯🇵",
+		"flags": {
+			"png": "https://flagcdn.com/w320/jp.png",
+			"svg": "https://flagcdn.com/jp.svg"
+		}
+	},
+	{
+		"name": "Central African Republic",
+		"flag": "🇨🇫",
+		"flags": {
+			"png": "https://flagcdn.com/w320/cf.png",
+			"svg": "https://flagcdn.com/cf.svg"
+		}
+	},
+	{
+		"name": "Gabon",
+		"flag": "🇬🇦",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ga.png",
+			"svg": "https://flagcdn.com/ga.svg"
+		}
+	},
+	{
+		"name": "Iraq",
+		"flag": "🇮🇶",
+		"flags": {
+			"png": "https://flagcdn.com/w320/iq.png",
+			"svg": "https://flagcdn.com/iq.svg"
+		}
+	},
+	{
+		"name": "Myanmar",
+		"flag": "🇲🇲",
+		"flags": {
+			"png": "https://flagcdn.com/w320/mm.png",
+			"svg": "https://flagcdn.com/mm.svg"
+		}
+	},
+	{
+		"name": "Montenegro",
+		"flag": "🇲🇪",
+		"flags": {
+			"png": "https://flagcdn.com/w320/me.png",
+			"svg": "https://flagcdn.com/me.svg"
+		}
+	},
+	{
+		"name": "Nauru",
+		"flag": "🇳🇷",
+		"flags": {
+			"png": "https://flagcdn.com/w320/nr.png",
+			"svg": "https://flagcdn.com/nr.svg"
+		}
+	},
+	{
+		"name": "Vanuatu",
+		"flag": "🇻🇺",
+		"flags": {
+			"png": "https://flagcdn.com/w320/vu.png",
+			"svg": "https://flagcdn.com/vu.svg"
+		}
+	},
+	{
+		"name": "France",
+		"flag": "🇫🇷",
+		"flags": {
+			"png": "https://flagcdn.com/w320/fr.png",
+			"svg": "https://flagcdn.com/fr.svg"
+		}
+	},
+	{
+		"name": "Zimbabwe",
+		"flag": "🇿🇼",
+		"flags": {
+			"png": "https://flagcdn.com/w320/zw.png",
+			"svg": "https://flagcdn.com/zw.svg"
+		}
+	},
+	{
+		"name": "Philippines",
+		"flag": "🇵🇭",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ph.png",
+			"svg": "https://flagcdn.com/ph.svg"
+		}
+	},
+	{
+		"name": "Slovakia",
+		"flag": "🇸🇰",
+		"flags": {
+			"png": "https://flagcdn.com/w320/sk.png",
+			"svg": "https://flagcdn.com/sk.svg"
+		}
+	},
+	{
+		"name": "Australia",
+		"flag": "🇦🇺",
+		"flags": {
+			"png": "https://flagcdn.com/w320/au.png",
+			"svg": "https://flagcdn.com/au.svg"
+		}
+	},
+	{
+		"name": "Ivory Coast",
+		"flag": "🇨🇮",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ci.png",
+			"svg": "https://flagcdn.com/ci.svg"
+		}
+	},
+	{
+		"name": "Eswatini",
+		"flag": "🇸🇿",
+		"flags": {
+			"png": "https://flagcdn.com/w320/sz.png",
+			"svg": "https://flagcdn.com/sz.svg"
+		}
+	},
+	{
+		"name": "Rwanda",
+		"flag": "🇷🇼",
+		"flags": {
+			"png": "https://flagcdn.com/w320/rw.png",
+			"svg": "https://flagcdn.com/rw.svg"
+		}
+	},
+	{
+		"name": "Benin",
+		"flag": "🇧🇯",
+		"flags": {
+			"png": "https://flagcdn.com/w320/bj.png",
+			"svg": "https://flagcdn.com/bj.svg"
+		}
+	},
+	{
+		"name": "Uganda",
+		"flag": "🇺🇬",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ug.png",
+			"svg": "https://flagcdn.com/ug.svg"
+		}
+	},
+	{
+		"name": "Ireland",
+		"flag": "🇮🇪",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ie.png",
+			"svg": "https://flagcdn.com/ie.svg"
+		}
+	},
+	{
+		"name": "Iran",
+		"flag": "🇮🇷",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ir.png",
+			"svg": "https://flagcdn.com/ir.svg"
+		}
+	},
+	{
+		"name": "Slovenia",
+		"flag": "🇸🇮",
+		"flags": {
+			"png": "https://flagcdn.com/w320/si.png",
+			"svg": "https://flagcdn.com/si.svg"
+		}
+	},
+	{
+		"name": "Mali",
+		"flag": "🇲🇱",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ml.png",
+			"svg": "https://flagcdn.com/ml.svg"
+		}
+	},
+	{
+		"name": "Switzerland",
+		"flag": "🇨🇭",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ch.png",
+			"svg": "https://flagcdn.com/ch.svg"
+		}
+	},
+	{
+		"name": "Uruguay",
+		"flag": "🇺🇾",
+		"flags": {
+			"png": "https://flagcdn.com/w320/uy.png",
+			"svg": "https://flagcdn.com/uy.svg"
+		}
+	},
+	{
+		"name": "Suriname",
+		"flag": "🇸🇷",
+		"flags": {
+			"png": "https://flagcdn.com/w320/sr.png",
+			"svg": "https://flagcdn.com/sr.svg"
+		}
+	},
+	{
+		"name": "Ukraine",
+		"flag": "🇺🇦",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ua.png",
+			"svg": "https://flagcdn.com/ua.svg"
+		}
+	},
+	{
+		"name": "Czechia",
+		"flag": "🇨🇿",
+		"flags": {
+			"png": "https://flagcdn.com/w320/cz.png",
+			"svg": "https://flagcdn.com/cz.svg"
+		}
+	},
+	{
+		"name": "Honduras",
+		"flag": "🇭🇳",
+		"flags": {
+			"png": "https://flagcdn.com/w320/hn.png",
+			"svg": "https://flagcdn.com/hn.svg"
+		}
+	},
+	{
+		"name": "Samoa",
+		"flag": "🇼🇸",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ws.png",
+			"svg": "https://flagcdn.com/ws.svg"
+		}
+	},
+	{
+		"name": "Laos",
+		"flag": "🇱🇦",
+		"flags": {
+			"png": "https://flagcdn.com/w320/la.png",
+			"svg": "https://flagcdn.com/la.svg"
+		}
+	},
+	{
+		"name": "Cape Verde",
+		"flag": "🇨🇻",
+		"flags": {
+			"png": "https://flagcdn.com/w320/cv.png",
+			"svg": "https://flagcdn.com/cv.svg"
+		}
+	},
+	{
+		"name": "Ethiopia",
+		"flag": "🇪🇹",
+		"flags": {
+			"png": "https://flagcdn.com/w320/et.png",
+			"svg": "https://flagcdn.com/et.svg"
+		}
+	},
+	{
+		"name": "Bangladesh",
+		"flag": "🇧🇩",
+		"flags": {
+			"png": "https://flagcdn.com/w320/bd.png",
+			"svg": "https://flagcdn.com/bd.svg"
+		}
+	},
+	{
+		"name": "Belarus",
+		"flag": "🇧🇾",
+		"flags": {
+			"png": "https://flagcdn.com/w320/by.png",
+			"svg": "https://flagcdn.com/by.svg"
+		}
+	},
+	{
+		"name": "Croatia",
+		"flag": "🇭🇷",
+		"flags": {
+			"png": "https://flagcdn.com/w320/hr.png",
+			"svg": "https://flagcdn.com/hr.svg"
+		}
+	},
+	{
+		"name": "Kuwait",
+		"flag": "🇰🇼",
+		"flags": {
+			"png": "https://flagcdn.com/w320/kw.png",
+			"svg": "https://flagcdn.com/kw.svg"
+		}
+	},
+	{
+		"name": "Morocco",
+		"flag": "🇲🇦",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ma.png",
+			"svg": "https://flagcdn.com/ma.svg"
+		}
+	},
+	{
+		"name": "Russia",
+		"flag": "🇷🇺",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ru.png",
+			"svg": "https://flagcdn.com/ru.svg"
+		}
+	},
+	{
+		"name": "Estonia",
+		"flag": "🇪🇪",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ee.png",
+			"svg": "https://flagcdn.com/ee.svg"
+		}
+	},
+	{
+		"name": "Sri Lanka",
+		"flag": "🇱🇰",
+		"flags": {
+			"png": "https://flagcdn.com/w320/lk.png",
+			"svg": "https://flagcdn.com/lk.svg"
+		}
+	},
+	{
+		"name": "Poland",
+		"flag": "🇵🇱",
+		"flags": {
+			"png": "https://flagcdn.com/w320/pl.png",
+			"svg": "https://flagcdn.com/pl.svg"
+		}
+	},
+	{
+		"name": "Madagascar",
+		"flag": "🇲🇬",
+		"flags": {
+			"png": "https://flagcdn.com/w320/mg.png",
+			"svg": "https://flagcdn.com/mg.svg"
+		}
+	},
+	{
+		"name": "Costa Rica",
+		"flag": "🇨🇷",
+		"flags": {
+			"png": "https://flagcdn.com/w320/cr.png",
+			"svg": "https://flagcdn.com/cr.svg"
+		}
+	},
+	{
+		"name": "El Salvador",
+		"flag": "🇸🇻",
+		"flags": {
+			"png": "https://flagcdn.com/w320/sv.png",
+			"svg": "https://flagcdn.com/sv.svg"
+		}
+	},
+	{
+		"name": "Andorra",
+		"flag": "🇦🇩",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ad.png",
+			"svg": "https://flagcdn.com/ad.svg"
+		}
+	},
+	{
+		"name": "Italy",
+		"flag": "🇮🇹",
+		"flags": {
+			"png": "https://flagcdn.com/w320/it.png",
+			"svg": "https://flagcdn.com/it.svg"
+		}
+	},
+	{
+		"name": "Namibia",
+		"flag": "🇳🇦",
+		"flags": {
+			"png": "https://flagcdn.com/w320/na.png",
+			"svg": "https://flagcdn.com/na.svg"
+		}
+	},
+	{
+		"name": "Seychelles",
+		"flag": "🇸🇨",
+		"flags": {
+			"png": "https://flagcdn.com/w320/sc.png",
+			"svg": "https://flagcdn.com/sc.svg"
+		}
+	},
+	{
+		"name": "Panama",
+		"flag": "🇵🇦",
+		"flags": {
+			"png": "https://flagcdn.com/w320/pa.png",
+			"svg": "https://flagcdn.com/pa.svg"
+		}
+	},
+	{
+		"name": "Haiti",
+		"flag": "🇭🇹",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ht.png",
+			"svg": "https://flagcdn.com/ht.svg"
+		}
+	},
+	{
+		"name": "Argentina",
+		"flag": "🇦🇷",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ar.png",
+			"svg": "https://flagcdn.com/ar.svg"
+		}
+	},
+	{
+		"name": "Niger",
+		"flag": "🇳🇪",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ne.png",
+			"svg": "https://flagcdn.com/ne.svg"
+		}
+	},
+	{
+		"name": "Malawi",
+		"flag": "🇲🇼",
+		"flags": {
+			"png": "https://flagcdn.com/w320/mw.png",
+			"svg": "https://flagcdn.com/mw.svg"
+		}
+	},
+	{
+		"name": "Germany",
+		"flag": "🇩🇪",
+		"flags": {
+			"png": "https://flagcdn.com/w320/de.png",
+			"svg": "https://flagcdn.com/de.svg"
+		}
+	},
+	{
+		"name": "Kiribati",
+		"flag": "🇰🇮",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ki.png",
+			"svg": "https://flagcdn.com/ki.svg"
+		}
+	},
+	{
+		"name": "Syria",
+		"flag": "🇸🇾",
+		"flags": {
+			"png": "https://flagcdn.com/w320/sy.png",
+			"svg": "https://flagcdn.com/sy.svg"
+		}
+	},
+	{
+		"name": "Marshall Islands",
+		"flag": "🇲🇭",
+		"flags": {
+			"png": "https://flagcdn.com/w320/mh.png",
+			"svg": "https://flagcdn.com/mh.svg"
+		}
+	},
+	{
+		"name": "Hungary",
+		"flag": "🇭🇺",
+		"flags": {
+			"png": "https://flagcdn.com/w320/hu.png",
+			"svg": "https://flagcdn.com/hu.svg"
+		}
+	},
+	{
+		"name": "Denmark",
+		"flag": "🇩🇰",
+		"flags": {
+			"png": "https://flagcdn.com/w320/dk.png",
+			"svg": "https://flagcdn.com/dk.svg"
+		}
+	},
+	{
+		"name": "Saint Lucia",
+		"flag": "🇱🇨",
+		"flags": {
+			"png": "https://flagcdn.com/w320/lc.png",
+			"svg": "https://flagcdn.com/lc.svg"
+		}
+	},
+	{
+		"name": "Bolivia",
+		"flag": "🇧🇴",
+		"flags": {
+			"png": "https://flagcdn.com/w320/bo.png",
+			"svg": "https://flagcdn.com/bo.svg"
+		}
+	},
+	{
+		"name": "Djibouti",
+		"flag": "🇩🇯",
+		"flags": {
+			"png": "https://flagcdn.com/w320/dj.png",
+			"svg": "https://flagcdn.com/dj.svg"
+		}
+	},
+	{
+		"name": "South Africa",
+		"flag": "🇿🇦",
+		"flags": {
+			"png": "https://flagcdn.com/w320/za.png",
+			"svg": "https://flagcdn.com/za.svg"
+		}
+	},
+	{
+		"name": "Nigeria",
+		"flag": "🇳🇬",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ng.png",
+			"svg": "https://flagcdn.com/ng.svg"
+		}
+	},
+	{
+		"name": "São Tomé and Príncipe",
+		"flag": "🇸🇹",
+		"flags": {
+			"png": "https://flagcdn.com/w320/st.png",
+			"svg": "https://flagcdn.com/st.svg"
+		}
+	},
+	{
+		"name": "Nicaragua",
+		"flag": "🇳🇮",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ni.png",
+			"svg": "https://flagcdn.com/ni.svg"
+		}
+	},
+	{
+		"name": "Ecuador",
+		"flag": "🇪🇨",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ec.png",
+			"svg": "https://flagcdn.com/ec.svg"
+		}
+	},
+	{
+		"name": "Grenada",
+		"flag": "🇬🇩",
+		"flags": {
+			"png": "https://flagcdn.com/w320/gd.png",
+			"svg": "https://flagcdn.com/gd.svg"
+		}
+	},
+	{
+		"name": "Bahamas",
+		"flag": "🇧🇸",
+		"flags": {
+			"png": "https://flagcdn.com/w320/bs.png",
+			"svg": "https://flagcdn.com/bs.svg"
+		}
+	},
+	{
+		"name": "Chile",
+		"flag": "🇨🇱",
+		"flags": {
+			"png": "https://flagcdn.com/w320/cl.png",
+			"svg": "https://flagcdn.com/cl.svg"
+		}
+	},
+	{
+		"name": "Malaysia",
+		"flag": "🇲🇾",
+		"flags": {
+			"png": "https://flagcdn.com/w320/my.png",
+			"svg": "https://flagcdn.com/my.svg"
+		}
+	},
+	{
+		"name": "Tuvalu",
+		"flag": "🇹🇻",
+		"flags": {
+			"png": "https://flagcdn.com/w320/tv.png",
+			"svg": "https://flagcdn.com/tv.svg"
+		}
+	},
+	{
+		"name": "Solomon Islands",
+		"flag": "🇸🇧",
+		"flags": {
+			"png": "https://flagcdn.com/w320/sb.png",
+			"svg": "https://flagcdn.com/sb.svg"
+		}
+	},
+	{
+		"name": "Tanzania",
+		"flag": "🇹🇿",
+		"flags": {
+			"png": "https://flagcdn.com/w320/tz.png",
+			"svg": "https://flagcdn.com/tz.svg"
+		}
+	},
+	{
+		"name": "North Korea",
+		"flag": "🇰🇵",
+		"flags": {
+			"png": "https://flagcdn.com/w320/kp.png",
+			"svg": "https://flagcdn.com/kp.svg"
+		}
+	},
+	{
+		"name": "Guinea-Bissau",
+		"flag": "🇬🇼",
+		"flags": {
+			"png": "https://flagcdn.com/w320/gw.png",
+			"svg": "https://flagcdn.com/gw.svg"
+		}
+	},
+	{
+		"name": "Kosovo",
+		"flag": "🇽🇰",
+		"flags": {
+			"png": "https://flagcdn.com/w320/xk.png",
+			"svg": "https://flagcdn.com/xk.svg"
+		}
+	},
+	{
+		"name": "Vatican City",
+		"flag": "🇻🇦",
+		"flags": {
+			"png": "https://flagcdn.com/w320/va.png",
+			"svg": "https://flagcdn.com/va.svg"
+		}
+	},
+	{
+		"name": "Norway",
+		"flag": "🇳🇴",
+		"flags": {
+			"png": "https://flagcdn.com/w320/no.png",
+			"svg": "https://flagcdn.com/no.svg"
+		}
+	},
+	{
+		"name": "Palestine",
+		"flag": "🇵🇸",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ps.png",
+			"svg": "https://flagcdn.com/ps.svg"
+		}
+	},
+	{
+		"name": "Jamaica",
+		"flag": "🇯🇲",
+		"flags": {
+			"png": "https://flagcdn.com/w320/jm.png",
+			"svg": "https://flagcdn.com/jm.svg"
+		}
+	},
+	{
+		"name": "Egypt",
+		"flag": "🇪🇬",
+		"flags": {
+			"png": "https://flagcdn.com/w320/eg.png",
+			"svg": "https://flagcdn.com/eg.svg"
+		}
+	},
+	{
+		"name": "Cambodia",
+		"flag": "🇰🇭",
+		"flags": {
+			"png": "https://flagcdn.com/w320/kh.png",
+			"svg": "https://flagcdn.com/kh.svg"
+		}
+	},
+	{
+		"name": "Mauritius",
+		"flag": "🇲🇺",
+		"flags": {
+			"png": "https://flagcdn.com/w320/mu.png",
+			"svg": "https://flagcdn.com/mu.svg"
+		}
+	},
+	{
+		"name": "Gambia",
+		"flag": "🇬🇲",
+		"flags": {
+			"png": "https://flagcdn.com/w320/gm.png",
+			"svg": "https://flagcdn.com/gm.svg"
+		}
+	},
+	{
+		"name": "Equatorial Guinea",
+		"flag": "🇬🇶",
+		"flags": {
+			"png": "https://flagcdn.com/w320/gq.png",
+			"svg": "https://flagcdn.com/gq.svg"
+		}
+	},
+	{
+		"name": "Lesotho",
+		"flag": "🇱🇸",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ls.png",
+			"svg": "https://flagcdn.com/ls.svg"
+		}
+	},
+	{
+		"name": "United States",
+		"flag": "🇺🇸",
+		"flags": {
+			"png": "https://flagcdn.com/w320/us.png",
+			"svg": "https://flagcdn.com/us.svg"
+		}
+	},
+	{
+		"name": "United Arab Emirates",
+		"flag": "🇦🇪",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ae.png",
+			"svg": "https://flagcdn.com/ae.svg"
+		}
+	},
+	{
+		"name": "Mozambique",
+		"flag": "🇲🇿",
+		"flags": {
+			"png": "https://flagcdn.com/w320/mz.png",
+			"svg": "https://flagcdn.com/mz.svg"
+		}
+	},
+	{
+		"name": "Algeria",
+		"flag": "🇩🇿",
+		"flags": {
+			"png": "https://flagcdn.com/w320/dz.png",
+			"svg": "https://flagcdn.com/dz.svg"
+		}
+	},
+	{
+		"name": "Zambia",
+		"flag": "🇿🇲",
+		"flags": {
+			"png": "https://flagcdn.com/w320/zm.png",
+			"svg": "https://flagcdn.com/zm.svg"
+		}
+	},
+	{
+		"name": "Guatemala",
+		"flag": "🇬🇹",
+		"flags": {
+			"png": "https://flagcdn.com/w320/gt.png",
+			"svg": "https://flagcdn.com/gt.svg"
+		}
+	},
+	{
+		"name": "South Korea",
+		"flag": "🇰🇷",
+		"flags": {
+			"png": "https://flagcdn.com/w320/kr.png",
+			"svg": "https://flagcdn.com/kr.svg"
+		}
+	},
+	{
+		"name": "Kyrgyzstan",
+		"flag": "🇰🇬",
+		"flags": {
+			"png": "https://flagcdn.com/w320/kg.png",
+			"svg": "https://flagcdn.com/kg.svg"
+		}
+	},
+	{
+		"name": "Timor-Leste",
+		"flag": "🇹🇱",
+		"flags": {
+			"png": "https://flagcdn.com/w320/tl.png",
+			"svg": "https://flagcdn.com/tl.svg"
+		}
+	},
+	{
+		"name": "Jordan",
+		"flag": "🇯🇴",
+		"flags": {
+			"png": "https://flagcdn.com/w320/jo.png",
+			"svg": "https://flagcdn.com/jo.svg"
+		}
+	},
+	{
+		"name": "Malta",
+		"flag": "🇲🇹",
+		"flags": {
+			"png": "https://flagcdn.com/w320/mt.png",
+			"svg": "https://flagcdn.com/mt.svg"
+		}
+	},
+	{
+		"name": "Cyprus",
+		"flag": "🇨🇾",
+		"flags": {
+			"png": "https://flagcdn.com/w320/cy.png",
+			"svg": "https://flagcdn.com/cy.svg"
+		}
+	},
+	{
+		"name": "Kazakhstan",
+		"flag": "🇰🇿",
+		"flags": {
+			"png": "https://flagcdn.com/w320/kz.png",
+			"svg": "https://flagcdn.com/kz.svg"
+		}
+	},
+	{
+		"name": "Botswana",
+		"flag": "🇧🇼",
+		"flags": {
+			"png": "https://flagcdn.com/w320/bw.png",
+			"svg": "https://flagcdn.com/bw.svg"
+		}
+	},
+	{
+		"name": "Saint Vincent and the Grenadines",
+		"flag": "🇻🇨",
+		"flags": {
+			"png": "https://flagcdn.com/w320/vc.png",
+			"svg": "https://flagcdn.com/vc.svg"
+		}
+	},
+	{
+		"name": "Barbados",
+		"flag": "🇧🇧",
+		"flags": {
+			"png": "https://flagcdn.com/w320/bb.png",
+			"svg": "https://flagcdn.com/bb.svg"
+		}
+	},
+	{
+		"name": "Tonga",
+		"flag": "🇹🇴",
+		"flags": {
+			"png": "https://flagcdn.com/w320/to.png",
+			"svg": "https://flagcdn.com/to.svg"
+		}
+	},
+	{
+		"name": "Thailand",
+		"flag": "🇹🇭",
+		"flags": {
+			"png": "https://flagcdn.com/w320/th.png",
+			"svg": "https://flagcdn.com/th.svg"
+		}
+	},
+	{
+		"name": "Belgium",
+		"flag": "🇧🇪",
+		"flags": {
+			"png": "https://flagcdn.com/w320/be.png",
+			"svg": "https://flagcdn.com/be.svg"
+		}
+	},
+	{
+		"name": "Canada",
+		"flag": "🇨🇦",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ca.png",
+			"svg": "https://flagcdn.com/ca.svg"
+		}
+	},
+	{
+		"name": "Georgia",
+		"flag": "🇬🇪",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ge.png",
+			"svg": "https://flagcdn.com/ge.svg"
+		}
+	},
+	{
+		"name": "Fiji",
+		"flag": "🇫🇯",
+		"flags": {
+			"png": "https://flagcdn.com/w320/fj.png",
+			"svg": "https://flagcdn.com/fj.svg"
+		}
+	},
+	{
+		"name": "Netherlands",
+		"flag": "🇳🇱",
+		"flags": {
+			"png": "https://flagcdn.com/w320/nl.png",
+			"svg": "https://flagcdn.com/nl.svg"
+		}
+	},
+	{
+		"name": "Armenia",
+		"flag": "🇦🇲",
+		"flags": {
+			"png": "https://flagcdn.com/w320/am.png",
+			"svg": "https://flagcdn.com/am.svg"
+		}
+	},
+	{
+		"name": "Dominican Republic",
+		"flag": "🇩🇴",
+		"flags": {
+			"png": "https://flagcdn.com/w320/do.png",
+			"svg": "https://flagcdn.com/do.svg"
+		}
+	},
+	{
+		"name": "Turkmenistan",
+		"flag": "🇹🇲",
+		"flags": {
+			"png": "https://flagcdn.com/w320/tm.png",
+			"svg": "https://flagcdn.com/tm.svg"
+		}
+	},
+	{
+		"name": "Nepal",
+		"flag": "🇳🇵",
+		"flags": {
+			"png": "https://flagcdn.com/w320/np.png",
+			"svg": "https://flagcdn.com/np.svg"
+		}
+	},
+	{
+		"name": "Maldives",
+		"flag": "🇲🇻",
+		"flags": {
+			"png": "https://flagcdn.com/w320/mv.png",
+			"svg": "https://flagcdn.com/mv.svg"
+		}
+	},
+	{
+		"name": "Libya",
+		"flag": "🇱🇾",
+		"flags": {
+			"png": "https://flagcdn.com/w320/ly.png",
+			"svg": "https://flagcdn.com/ly.svg"
+		}
+	},
+	{
+		"name": "Brazil",
+		"flag": "🇧🇷",
+		"flags": {
+			"png": "https://flagcdn.com/w320/br.png",
+			"svg": "https://flagcdn.com/br.svg"
+		}
+	}
+]

@@ -4,7 +4,14 @@
 //
 // import { User } from 'path/to/interfaces';
 
-export type User = {
-  id: number
-  name: string
+export type Country = {
+	name: string
+	flag: string
+	flags: Flags
+	guessed?: boolean
+}
+
+export type Flags = {
+	png: string
+	svg: string
 }
