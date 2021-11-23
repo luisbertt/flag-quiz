@@ -19,6 +19,10 @@ const IndexPage = () => {
 	useEffect(() => {
 		if (query.toLowerCase() === currentCountry.name.toLowerCase()) {
 			setQuery("")
+
+			if (currentIndex === countriesLeft.length - 1)
+				setCurrentIndex(index => index - 1)
+
 			setCountries(countries =>
 				countries.map(country =>
 					country.name === currentCountry.name
