@@ -21,7 +21,7 @@ const IndexPage = () => {
 			setQuery("")
 
 			if (currentIndex === countriesLeft.length - 1)
-				setCurrentIndex(index => index - 1)
+				setCurrentIndex(index => (countriesLeft.length - 1) % index)
 
 			setCountries(countries =>
 				countries.map(country =>
