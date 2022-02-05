@@ -7,7 +7,7 @@ type Props = {
 }
 
 const Layout = ({ children, title = "This is the default title" }: Props) => (
-    <div>
+    <div className="container mx-auto p-10">
         <Head>
             <title>{title}</title>
             <meta charSet="utf-8" />
@@ -21,19 +21,6 @@ const Layout = ({ children, title = "This is the default title" }: Props) => (
             />
         </Head>
         {children}
-        <footer className="text-center">
-            <hr />
-            <span className="font-mono text-sm">
-                developed by{" "}
-                <a
-                    href="https:github.com/luisbertt"
-                    className="underline"
-                    target="_blank"
-                >
-                    luisbertt
-                </a>
-            </span>
-        </footer>
     </div>
 )
 
