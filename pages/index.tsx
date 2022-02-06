@@ -63,11 +63,11 @@ const IndexPage = () => {
                 <div className="flex space-x-10">
                     <CurrentCountryFlag country={currentCountry} />
 
-                    <div className="text-sm w-60">
-                        <p>Enter Country:</p>
+                    <div className="text-sm w-60 space-y-2">
+                        <p className="text-lg">Enter Country:</p>
                         <input
                             type="text"
-                            className="border px-2 py-1 w-full"
+                            className="border px-4 py-2 w-full bg-black border border-white rounded"
                             onChange={e => setQuery(e.target.value)}
                             value={query}
                             ref={inputRef}
