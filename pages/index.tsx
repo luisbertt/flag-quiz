@@ -31,7 +31,7 @@ const IndexPage = () => {
                 )
             )
 
-            setGuessedCountries(countries => [...countries, currentCountry])
+            setGuessedCountries(countries => [currentCountry, ...countries])
             setcountriesLeft(countries =>
                 countries.filter(
                     country => country.name !== currentCountry.name
